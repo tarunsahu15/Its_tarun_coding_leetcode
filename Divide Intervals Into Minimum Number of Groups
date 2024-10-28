@@ -1,0 +1,5 @@
+storing the ending points as a group was a good idea. 
+because we have sorted it will take care of the all the test cases
+to reduce complexity store the ending point in priority queue
+if they found to be overlapping then simply add the ending point in to the prioriyt queue 
+else update the ending point of the current compared ending point 
